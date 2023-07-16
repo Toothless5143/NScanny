@@ -2,7 +2,7 @@
 A python network scanning tool to scan ports.
 
 ### Installation
-Download all the required files and libraries you need to run the tool:
+Download all the required files and libraries you need to run the tool:<br>
 `https://github.com/Toothless5143/NScanny.git && cd NScanny` <br>
 `pip install -r requirements.txt`
 
